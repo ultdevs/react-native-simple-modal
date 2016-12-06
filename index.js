@@ -153,7 +153,8 @@ const styles = StyleSheet.create({
       backgroundColor: 'rgba(0, 0, 0, 0)'
    },
    container: {
-      justifyContent: 'center'
+      justifyContent: 'center',
+      elevation: 9
    },
    defaultModalStyle: {
       borderRadius: 2,
